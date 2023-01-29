@@ -1,0 +1,2 @@
+FileNotFoundError: [Errno 2] No such file or directory: 'nnn.pdf'
+PS C:\Users\Admin\Desktop\python\Word-count> 
